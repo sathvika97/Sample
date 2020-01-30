@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: batchtest.Testrun
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 45.105 sec <<< FAILURE!
+Searching of a product(Pixel store pos)  Time elapsed: 43.865 sec  <<< ERROR!
+java.lang.NullPointerException
+	at stepde.Stepdefini.larry_verifies_the_product_availability(Stepdefini.java:168)
+	at ?.Larry verifies the product availability(file:///C:/Users/Training_h2a.09.22/eclipse-workspace/28thjanGftcucumber/demojan28jan.feature:31)
+
