@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 32504000000,
+              "duration": 62379000000,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-01-30T04:58:57.487Z",
+        "start_timestamp": "2020-02-04T10:10:25.359Z",
         "line": 29,
         "name": "Searching of a product",
         "description": "",
@@ -34,6 +34,7 @@
         "steps": [
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 30,
@@ -45,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 533000000,
+              "duration": 867000000,
               "status": "passed"
             },
             "line": 31,
